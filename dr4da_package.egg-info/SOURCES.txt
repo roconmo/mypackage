@@ -1,0 +1,9 @@
+README.md
+setup.py
+dr4da_package.egg-info/PKG-INFO
+dr4da_package.egg-info/SOURCES.txt
+dr4da_package.egg-info/dependency_links.txt
+dr4da_package.egg-info/requires.txt
+dr4da_package.egg-info/top_level.txt
+mypackage/__init__.py
+mypackage/operator.py

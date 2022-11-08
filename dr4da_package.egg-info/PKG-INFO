@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: dr4da-package
+Version: 1.0.0
+Summary: license
+Home-page: https://github.com/roconmo/mypackage
+Author: equipo_enel
+Author-email: <equipo@email.com>
+Requires-Python: ==3.9.13
