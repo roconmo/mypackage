@@ -11,3 +11,8 @@ class Operator:
             return self.num2 - self.num1
         return self.num1 - self.num2
 
+    def substract2(self, inverse: bool = False):
+        if inverse:
+            return self.num2 - self.num1
+        return self.num1 - self.num2
+
